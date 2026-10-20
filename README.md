@@ -1,4 +1,4 @@
-College Experiment Diary
+# College Experiment Diary
 
 Welcome to my Java project repository. This collection showcases a series of Advanced Java laboratory experiments alongside a comprehensive enterprise-level E-Commerce capstone project, demonstrating practical implementations of distributed systems, web containers, and database connectivity.
 
